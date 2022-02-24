@@ -4,6 +4,6 @@ This is a webpage showcasing my code projects. It includes an "About Me", "Work"
 
 <br>
 
-[Click HERE to go to Portfolio](https://tbro4.github.io/my-portfolio/)
+[Click HERE to go to Portfolio](https://tbro4.github.io/my-portfolio/){:target="\_blank" rel="noopener"}
 
 <!-- Add screenshot here -->
