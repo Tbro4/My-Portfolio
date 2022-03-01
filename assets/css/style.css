@@ -81,12 +81,39 @@ section p {
   margin-left: 1%;
   color: rgb(72, 69, 69);
 }
+
+h3 {
+  background-color: rgb(72, 69, 69);
+}
 .myPic {
   margin: 1%;
 }
 
 .aboutMe {
   margin-left: 1%;
+}
+
+.mainProj {
+  background-size: cover !important;
+
+  background-image: url("../images/john-peters-EbOaaL8E_Z0-unsplash.jpg");
+}
+.secProj {
+  background-size: cover !important;
+
+  background-image: url("../images/patrick-tomasso-5hvn-2WW6rY-unsplash.jpg");
+}
+
+.thirdProj {
+  background-size: cover !important;
+
+  background-image: url("../images/ray-mallick-5J1bHRX1fNw-unsplash.jpg");
+}
+
+.fourthProj {
+  background-size: cover !important;
+
+  background-image: url("../images/teemu-paananen-OOE4xAnBhKo-unsplash.jpg");
 }
 
 address {
@@ -120,7 +147,7 @@ address a {
   margin: 1%;
   text-align: center;
   text-decoration: none;
-  background-color: rgb(199, 160, 111);
+  /* background-color: rgb(199, 160, 111); */
   color: bisque;
 }
 
