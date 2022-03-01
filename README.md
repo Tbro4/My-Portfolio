@@ -1,6 +1,6 @@
 # My Portfolio
 
-This is a webpage showcasing my code projects. It includes an "About Me", "Work", "Contact Me", and "Resume" section.
+This is a webpage showcasing my code projects. It includes an "About Me", "Work", and "Contact Me" section.
 
 <br>
 
